@@ -23,7 +23,8 @@ public class ReadDataFromPropertyFile {
 		System.out.println(BROWSER);
 		String USERNAME = p.getProperty("username"); 
 		System.out.println(USERNAME);
-
+		
+		System.out.println("hi");
 	}
 
 }
