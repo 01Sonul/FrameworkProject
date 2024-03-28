@@ -24,7 +24,6 @@ public class ReadDataFromPropertyFile {
 		String USERNAME = p.getProperty("username"); 
 		System.out.println(USERNAME);
 		
-		System.out.println("hi");
 	}
 
 }
